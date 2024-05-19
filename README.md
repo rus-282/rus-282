@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is Ruslan 👋
 
 <!--
 **rus-282/rus-282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
